@@ -1,0 +1,12 @@
+{
+    "name": "andrey-strelchanka/composer-package-example",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "AndreyStrelchanka\\ComposerPackageExample\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.0"
+    }
+}
