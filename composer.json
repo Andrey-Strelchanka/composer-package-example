@@ -6,7 +6,5 @@
             "AndreyStrelchanka\\ComposerPackageExample\\": "src/"
         }
     },
-    "require": {
-        "php": ">=8.0"
-    }
+    "require": {}
 }
